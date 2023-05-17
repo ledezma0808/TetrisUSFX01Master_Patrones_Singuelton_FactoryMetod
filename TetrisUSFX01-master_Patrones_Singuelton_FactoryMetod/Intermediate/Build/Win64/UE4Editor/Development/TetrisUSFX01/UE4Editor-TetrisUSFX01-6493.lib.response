@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TetrisUSFX01-6493.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Block.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockArena.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockColorido.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockGrass.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockHija01.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockHija02.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockMadera.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockMetal.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockPiedra.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Board.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\CrearObjeto.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Piece.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Block.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockArena.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockColorido.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockGrass.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockHija01.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockHija02.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockMadera.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockMetal.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\BlockPiedra.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Board.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\CrearObjeto.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Piece.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01.init.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\TetrisUSFX01GameModeBase.gen.cpp.obj"
+"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Default.rc2.res"
+/OUT:"D:\Laboratorio En gruo S\Singleton\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\UE4Editor-TetrisUSFX01-6493.lib"
